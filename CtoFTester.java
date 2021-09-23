@@ -5,4 +5,14 @@ public class CtoFTester {
 
     }
 
+    // void + no parameter for stub
+    public static void celsiusToFahrenheit() {
+        
+    }
+
+    // void + no parameter for stub
+    public static void fahrenheitToCelsius() {
+        
+    }
+
 }
